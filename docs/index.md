@@ -15,9 +15,10 @@ A blazing-fast, sustainable bioinformatics toolkit written in [Rust](https://www
 ## Get Started!!
 See Installation for details on how to install Rust for Linux, MacOSX and Windows
 
-##Interested in microbiorust-py?##  Check out the microbiorust-py section for quick-start & more! 
+If you want to call microbiorust from Python, that is microbiorust-py:
+##Interested in microbiorust-py? Check out the microbiorust-py section for quick-start & more! 
 
-for microbiorust-py install with pip, no need to install Rust - see the microbiorust-py section
+for ```microbiorust-py``` install with pip, no need to install Rust - see the microbiorust-py section
 
 Start a new project
 ```cargo new microBioRust_test```

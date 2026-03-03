@@ -25,6 +25,7 @@ nav:
   - Windows Install: windows_install.md
   - Usage: usage.md
   - Formats & Parsing: formats_and_parsing.md
+  - Python - microbiorust-py: microbiorust-py.md
 features:
   - navigation.tabs
 markdown_extensions:
