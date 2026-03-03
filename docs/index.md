@@ -1,6 +1,6 @@
 # Welcome to micro**BioRust**
  
-A blazing-fast, sustainable bioinformatics toolkit written in [Rust](https://www.rust-lang.org/) — for microbial genomics rresearch, and optimised for functions used in data exploration.  
+A blazing-fast, sustainable bioinformatics toolkit written in [Rust](https://www.rust-lang.org/) — for microbial genomics research, and optimised for functions used in data exploration.  
 
 ---
 
@@ -14,7 +14,10 @@ A blazing-fast, sustainable bioinformatics toolkit written in [Rust](https://www
 
 ## Get Started!!
 See Installation for details on how to install Rust for Linux, MacOSX and Windows
-Interested in microbiorust-py?  Check out the microbiorust-py section for quick-start & more! 
+
+##Interested in microbiorust-py?##  Check out the microbiorust-py section for quick-start & more! 
+
+for microbiorust-py install with pip, no need to install Rust - see the microbiorust-py section
 
 Start a new project
 ```cargo new microBioRust_test```
@@ -29,7 +32,7 @@ to add the whole workspace including file parsing, sequence metrics, coming soon
 ```cargo add -p microbiorust-py```
 
 or clone the repo  
-```git clone https://github.com/LCrossman/microBioRust.git```
+```git clone https://github.com/microBioRust/microBioRust.git```
 
 Build the project  
 ```cargo build```
